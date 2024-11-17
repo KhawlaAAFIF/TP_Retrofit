@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#007BFF</color>
+    <color name="light_gray">#F7F7F7</color>
+    <color name="dark_gray">#B0B0B0</color>
+        <color name="primary_color">#00796B</color> <!-- Teal -->
+        <color name="secondary_color">#D32F2F</color> <!-- Red -->
+        <color name="button_bg">#00796B</color> <!-- Teal button background -->
+        <color name="button_border">#00796B</color>
+        <color name="background_light">#F4F7FA</color>
+        <color name="text_dark">#333333</color>
+        <color name="text_light">#FFFFFF</color>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">banque</string>
+    <string-array name="format_array">
+        <item>JSON</item>
+        <item>XML</item>
+    </string-array>
+    <string-array name="type_compte_array">
+        <item>COURANT</item>
+        <item>EPARGNE</item>
+    </string-array>
+
+</resources>
